@@ -33,6 +33,7 @@ novo_nome3 = "Hello, %s, %s" % ["Czar", "Cesar"]
 num1 = "Numero %d" % numI # %d para Inteiro ou Fixnum
 num2 = "Numero %f" % numF # %f para Float
 num3 = "Numero %.2f" % numF # Tambem pode limitar o numero de casas
+s = "#{other}" % { :other => 'nome_qualquer' } 
 
 # Operadores basicos
 =begin
