@@ -48,3 +48,6 @@ flush (fluir) limpa qualquer dado armazenado no buffer (área de armazenamento t
 =end
 nome_digitado1 = gets # Recebe uma unica linha, incluindo o \n
 nome_digitado2 = gets.chomp # Recebe a linha mas nao inclui o \n
+
+
+# Obs.: Ruby nao possui tuplas
